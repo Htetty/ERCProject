@@ -5,7 +5,7 @@ import time
 GPIO.setmode(GPIO.BCM)
 
 buttons = {
-    17: b'0',   # 0 degrees
+    17: b'0',   # 0 degrees 
     27: b'1',   # 90 degrees
     22: b'2'    # 180 degrees
 }

@@ -1,0 +1,10 @@
+opencv-python
+supervision
+inference
+ultralytics
+
+# Note: Some inference dependencies may fail to install (like pyvips)
+# If you encounter issues, try installing inference separately:
+# pip install inference --no-deps
+# Then install dependencies as needed
+
